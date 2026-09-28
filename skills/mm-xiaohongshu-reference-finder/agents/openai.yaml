@@ -1,0 +1,6 @@
+interface:
+  display_name: "mm通用小红书找参考skill"
+  short_description: "按目标用户、痛点场景和数据标准搜索任意赛道小红书参考"
+  default_prompt: "使用 $mm-xiaohongshu-reference-finder 为这个赛道寻找小红书参考笔记。"
+policy:
+  allow_implicit_invocation: false
