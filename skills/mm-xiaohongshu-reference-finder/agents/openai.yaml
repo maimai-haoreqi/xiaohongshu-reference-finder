@@ -4,3 +4,4 @@ interface:
   default_prompt: "使用 $mm-xiaohongshu-reference-finder 为这个赛道寻找小红书参考笔记。"
 policy:
   allow_implicit_invocation: false
+
